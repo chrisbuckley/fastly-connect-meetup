@@ -1,10 +1,13 @@
 {
-  "name": "dev-meetup-2024-02-27",
-  "version": "0.4.0",
+  "name": "fastly-connect-meetup",
+  "version": "1.0.0",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
+      "name": "fastly-connect-meetup",
+      "version": "1.0.0",
+      "license": "ISC",
       "dependencies": {
         "@fastly/js-compute": "^3.8.2",
         "markdown-it": "^14.0.0"
